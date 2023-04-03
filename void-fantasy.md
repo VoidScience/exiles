@@ -1,4 +1,4 @@
-# Ranger's of the Wastelands
+# Exiles of the Wastelands
 It has been centuries since the cultists of the Great Darkness cracked open the Gates of Oblivion, allowing Demons from the Outer Void to swarm into The Mundane World. The Northern Realms fell, entirely overrun by the Demonic Horde before being finally checked at the mountains of the Shield Range. Humanity retreated, the passes fortified and guarded.
 
 You are a Ranger of the Mountain Guards. You hold the Passes against Demonic incursion, and venture north, into The Wastelands to hunt the enemy there. A long running war of attrition.
@@ -98,7 +98,7 @@ Wardens are the Ranger's most at home in the Wilderness. They specialize in long
 ### Champion
 Champions are the masters of weapons and warfare. Perhaps you have trained since you were a child to become a Knight of a noble House or maybe you were raised in the fighting pits of the Capital city, either way you have trained extensively in the use of weapons, armor, and violent action.
 
-## Champion Moves
+#### Champion Moves
 **Weapons Master**: This move replaced the Melee and Ranged Moves for you, as you are equally skilled. When you attack in Melee roll *+Brawn*, when you attack in Ranged roll *+Agility*.
 
 **Bodyguard**: If someone within Short range of you is hit by an attack, you can dive in to take the hit. It doesn’t count as an action in combat. Roll *+Agility*, if you roll one or more successes, you take the hit instead of your friend. You can push the roll.
