@@ -5,3 +5,8 @@ Priests serve the gods of the Thousand Temples, the collected deities of Humanit
 **Blessings**: You can work the blessing magic of the Thousand Cults. When you wield the power of a god in this way roll *+Savvy*
 
 **Healing**: When you channel the power of the gods to heal another roll *+Savvy*. If you instead rely on herbs and the skilled work of your hands roll *+Wits*
+
+# Advancement
+## Advanced Moves
+
+## Advanced Special Traits

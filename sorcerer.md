@@ -5,3 +5,8 @@ The Initiates of the Schools of High Sorcery are held in both awe and fear by th
 **Sorcery**: When you apply Thought and Word to reshape Reality to fit your Will roll *+Wits*.
 
 **Master of Metaphysics**: When you deal with intelligent Demons or other Entities of the Outer Void roll *+Savvy*. When you seek to perceive things beyond mere mortal sight roll *+Wits*
+
+# Advancement
+## Advanced Moves
+
+## Advanced Special Traits
