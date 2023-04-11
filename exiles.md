@@ -116,7 +116,10 @@ On a Success your Company Members gain a 1d bonus,
 On a Weak Success your Company Members gain a 1d bonus and you lose 1d on your next roll,  
 Ona  Failure you lose 1d on your next roll.
 
-**Defender**: When you stand guard over another, over a space, or hold the line roll *+Hard*.
+**Defender**: When you stand guard over another, over a space, or hold the line roll *+Hard*.  
+On a Success you hold your ground and redirect all attacks aimed at whomever you are guarding to yourself,  
+On a Weak Success you hold your ground but take -1d on your next roll,  
+On a Failure you take -1d on your next roll.  
 
 **Exchange Fire**: When you engage in ranged combat with other ranged opponents roll *+Savvy*.  
 On a Success, deal your weapon's damage,  
@@ -163,6 +166,7 @@ When the fiction warrants, construct a Dice Pool based on your ranks in the trig
 ### Multiple Successes
 While only a single success is needed on a roll, multiple successes can be used for increased effect. A non-exhaustive list of suggestions:
 - Mighty Blow: Increase damage by 1,  
+- Cancel a Bane,  
 - Quick: You complete your task quicker than normal,
 - Quiet: You complete your task without drawing notice,  
 - Influential: Your speech sways additional people to your cause,  
