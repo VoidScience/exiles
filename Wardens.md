@@ -3,7 +3,7 @@ You are a Sorcerer stalking the Demon-Haunted Wastes of the North, scouring the 
 
 You are an Exile. Sent to the mountain fortress of The Watch for your crimes in the Southern kingdoms. Too dangerous to remain in the south, too valuable to not exploit your abilities in the north.
 
-You are an Outcast.
+You are an Outcast. Unwanted in the Enclave
 
 You are a Warden. Sworn to The Watch, bound by Rite to serve. Capable of standing guard on the borders of Humanity.
 
